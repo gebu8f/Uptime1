@@ -21,7 +21,18 @@ const workerConfig = {
       method: 'GET',
       target: 'https://www.gebu8f.eu.org',
       },
-    // Example TCP Monitor
+    {
+      id: 'vice_website_monitor',
+      name: '副網',
+      method: 'GET',
+      target: 'https://gebu8f.pp.ua',
+      },
+    {
+      id: 'website_monitor',
+      name: '副站（易死亡）',
+      method: 'GET',
+      target: 'https://gebu8f6479.pp.ua',
+      },
   ],
   notification: {
     // [Optional] apprise API server URL
