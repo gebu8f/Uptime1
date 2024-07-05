@@ -10,7 +10,7 @@ const pageConfig = {
 
 const workerConfig = {
   // Write KV at most every 3 minutes unless the status changed.
-  kvWriteCooldownMinutes: 1,
+  kvWriteCooldownMinutes: 9,
   // Define all your monitors here
   monitors: [
     // Example HTTP Monitor
