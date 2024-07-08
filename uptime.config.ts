@@ -27,12 +27,6 @@ const workerConfig = {
       method: 'GET',
       target: 'https://gebu8f.pp.ua',
       },
-    {
-      id: 'website_monitor',
-      name: '副站（易死亡）',
-      method: 'GET',
-      target: 'https://gebu8f6479.pp.ua',
-      },
   ],
   notification: {
     // [Optional] apprise API server URL
