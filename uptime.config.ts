@@ -33,6 +33,12 @@ const workerConfig = {
       method: 'GET',
       tatget: 'https://gebu8f6479.pp.ua',
       },
+    {
+      id: 'my_server_monitor',
+      name: 'My Minecraft server',
+      mehod: 'TCP_PING',
+      target: 'papaya.fps.ms:26300',
+      },
   ],
   notification: {
     // [Optional] apprise API server URL
