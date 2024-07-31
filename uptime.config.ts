@@ -42,7 +42,7 @@ const workerConfig = {
     // if not specified, no notification will be sent
     recipientUrl: "tgram://bottoken/ChatID",
     // [Optional] timezone used in notification messages, default to "Etc/GMT"
-    timeZone: "Asia/Shanghai",
+    timeZone: "Asia/Taipei",
     // [Optional] grace period in minutes before sending a notification
     // notification will be sent only if the monitor is down for N continuous checks after the initial failure
     // if not specified, notification will be sent immediately
