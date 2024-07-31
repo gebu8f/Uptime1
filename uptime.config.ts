@@ -34,7 +34,7 @@ const workerConfig = {
       target: 'https://gebu8f6479.pp.ua',
       },
     {
-    id: mcserver_monitor',
+    id: 'mcserver_monitor',
       name: 'Minecraft伺服器',
       method: 'TCP_PING',
       target: 'papaya.fps.ms:26300',
