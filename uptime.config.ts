@@ -27,6 +27,12 @@ const workerConfig = {
       method: 'GET',
       target: 'https://gebu8f.pp.ua',
       },
+    {
+      id: 'Vice_two_website',
+      name: '阿蒲的推薦軟體',
+      method: 'GET',
+      tatget: 'https://gebu8f6479.pp.ua',
+      },
   ],
   notification: {
     // [Optional] apprise API server URL
