@@ -28,10 +28,10 @@ const workerConfig = {
       target: 'https://gebu8f.pp.ua',
       },
     {
-      id: 'Vice_two_website',
+      id: 'vice1_website_monitor',
       name: '阿蒲的推薦軟體',
       method: 'GET',
-      tatget: 'https://gebu8f6479.pp.ua/',
+      target: 'https://gebu8f6479.pp.ua',
       },
   ],
   notification: {
