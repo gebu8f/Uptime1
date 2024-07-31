@@ -37,7 +37,7 @@ const workerConfig = {
       id: 'my_server_monitor',
       name: 'My Minecraft server',
       mehod: 'TCP_PING',
-      target: 'papaya.fps.ms:26300',
+      target: '38.46.219.204:26300',
       },
   ],
   notification: {
