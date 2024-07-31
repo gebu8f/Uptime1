@@ -31,7 +31,7 @@ const workerConfig = {
       id: 'Vice_two_website',
       name: '阿蒲的推薦軟體',
       method: 'GET',
-      tatget: 'https://gebu8f6479.pp.ua',
+      tatget: 'https://gebu8f6479.pp.ua/',
       },
     {
       id: 'my_server_monitor',
