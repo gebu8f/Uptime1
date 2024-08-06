@@ -28,12 +28,6 @@ const workerConfig = {
       target: 'https://gebu8f.pp.ua',
       },
     {
-      id: 'vice1_website_monitor',
-      name: '阿蒲的推薦軟體',
-      method: 'GET',
-      target: 'https://gebu8f6479.pp.ua',
-      },
-    {
     id: 'mcserver_monitor',
       name: 'Minecraft伺服器',
       method: 'TCP_PING',
