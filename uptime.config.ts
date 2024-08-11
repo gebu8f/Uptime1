@@ -25,7 +25,7 @@ const workerConfig = {
       id: 'vice_website_monitor',
       name: '副網',
       method: 'GET',
-      target: 'https://gebu8f.pp.ua',
+      target: 'https://www.gebu8f.pp.ua',
       },
     {
       id: 'apps_website_monitor',
