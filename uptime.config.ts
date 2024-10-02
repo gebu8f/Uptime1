@@ -21,12 +21,12 @@ const workerConfig = {
       method: 'GET',
       target: 'https://www.gebu8f.eu.org',
       },
-    {
-      id: 'vice_website_monitor',
-      name: '副網',
-      method: 'GET',
-      target: 'https://www.gebu8f.pp.ua',
-      },
+    #{
+      #id: 'vice_website_monitor',
+      #name: '副網',
+      #method: 'GET',
+      #target: 'https://www.gebu8f.pp.ua',
+      #},
     {
       id: 'apps_website_monitor',
       name: '阿蒲的推薦軟體',
